@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import requests
+'''import requests
 import subprocess
 
 def jfrogUpload():
@@ -41,3 +41,4 @@ def main():
 ################################################################################################
 if __name__ == "__main__":
     main()
+'''
